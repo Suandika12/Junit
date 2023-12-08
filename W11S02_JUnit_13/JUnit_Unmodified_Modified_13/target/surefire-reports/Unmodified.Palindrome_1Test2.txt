@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Unmodified.Palindrome_1Test2
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE!
+Unmodified.Palindrome_1Test2.testMethodPalindrome_1()  Time elapsed: 0.004 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]palindrome number!> but was:<[NOT ]palindrome number!>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at Unmodified.Palindrome_1Test2.testMethodPalindrome_1(Palindrome_1Test2.java:50)
+
